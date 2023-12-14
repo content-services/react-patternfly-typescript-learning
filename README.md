@@ -28,7 +28,7 @@ Feel free too experiment with the given API's and technologies as you progress t
    npx create-react-app ../   react-patternfly-typescript-learning    --template typescript
    ```
 
-   Get help from [this](https://create-react-app. dev/docs/adding-typescript/#installation) documentation if needed.
+   Get help from [this](https://create-react-app.dev/docs/adding-typescript/#installation) documentation if needed.
 
 3. Now install Patternfly (both core and table) you can read why [here](https://www.patternfly.org/get-started/develop#install-and-configure-patternfly-react)
 
