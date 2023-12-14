@@ -2,7 +2,7 @@
 
 This repository is meant to be cloned in order to learn the basics of React/Patternfly/Typescript and API calling.
 Although there are tasks to complete below, it is recommended to use this as a test bed for learning these technologies.
-Feel free too experiment with the given API's and technologies as you progress through the below tasks.
+Feel free to experiment with the given API's and technologies as you progress through the below tasks.
 
 ## Documentation
 
